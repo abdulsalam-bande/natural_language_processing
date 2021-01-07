@@ -9,4 +9,4 @@
 - Implementing Logistics Regression From Scratch using Numpy For classification.
 - Implementing a Deep Neural Network From Scratch using Numpy For Regresion.
 
-# Note3 :Except for Named Entity recongntion, ignore the error you see in the juoyter notebook. All the other codes are running fine with good acurac
+# Note3 :Except for Named Entity recongntion, ignore the error you see in the juoyter notebook. All the other codes are running fine with good accuracy
